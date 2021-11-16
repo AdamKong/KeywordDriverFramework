@@ -1,0 +1,8 @@
+# home page
+loginLink=.//*[@id="s-top-loginbtn"]
+
+# login page
+loginTypeByAccount=//*[@id="TANGRAM__PSP_11__changePwdCodeItem"]
+loginUsernameInputbox=//*[@id="TANGRAM__PSP_11__userName"]
+loginPasswordInputbox=//*[@id="TANGRAM__PSP_11__password"]
+loginSubmitBtn=//*[@id="TANGRAM__PSP_11__submit"]
